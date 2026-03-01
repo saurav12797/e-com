@@ -22,7 +22,6 @@ interface ProductContextType {
   page: number;
   setPage: (page: number) => void;
 
-  // 🔥 MUST INCLUDE
   favorites: number[];
   toggleFavorite: (id: number) => void;
 }

@@ -3,9 +3,7 @@
 A product browsing application built using React + TypeScript.  
 Browse products, search, filter by category, sort by price, paginate results, and manage favorites — powered by a public products API.
 
-🌐 Live Link: http://endearing-pie-f2d821.netlify.app/
-
----
+## 🌐 Live Link: https://endearing-pie-f2d821.netlify.app/
 
 ## 📸 Screenshots
 
